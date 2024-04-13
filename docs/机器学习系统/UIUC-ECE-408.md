@@ -2,11 +2,11 @@
 
 ## 课程简介
 
-- 所属大学：
-- 先修要求：
-- 编程语言：
+- 所属大学：伊利诺伊大学厄巴纳香槟分校
+- 先修要求：C/C++ 程序设计、体系结构
+- 编程语言：CUDA C
 - 课程难度：🌟🌟🌟
-- 预计学时：
+- 预计学时：100小时
 
 <!-- 用一两段话介绍这门课程，内容包括但不限于：
     （1）课程覆盖的知识点范围
@@ -18,8 +18,8 @@
 
 ## 课程资源
 
-- 课程网站：
-- 课程视频：
+- 课程网站：https://www.youtube.com/playlist?list=PL6RdenZrxrw-UKfRL5smPfFFpeqwN3Dsz
+- 课程视频：https://www.youtube.com/playlist?list=PL6RdenZrxrw-UKfRL5smPfFFpeqwN3Dsz
 - 课程教材：
 - 课程作业：
 
